@@ -19,6 +19,7 @@ do {                 # ejecuta primero alguna accion y luego pregunta
     } 
 while ($i -lt 5)
 
+
 $colores =  @("rojo", "verde", "amarillo")
 foreach ($c in $colores) 
 {
